@@ -1,0 +1,6 @@
+{
+  "name": "الورشة المتنقلة لصيانة السيارات",
+  "description": "خدمة صيانة وإصلاح السيارات المتنقلة في الموقع وأمام المنزل على مدار 24 ساعة - بطاريات، فحص وبرمجة كمبيوتر، زيوت وفلاتر وميكانيكا وكهرباء سريعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
